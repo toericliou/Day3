@@ -1,0 +1,18 @@
+Picking up existing exploded jenkins.war at /home/eerilio/Documents/job-creator/./target/jenkins-for-test
+May 07, 2015 4:27:52 PM org.jvnet.hudson.test.JenkinsRule createWebServer
+INFO: Running on http://localhost:58739/jenkins/
+May 07, 2015 4:27:52 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started initialization
+May 07, 2015 4:27:57 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Listed all plugins
+May 07, 2015 4:27:57 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Prepared all plugins
+May 07, 2015 4:27:57 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Started all plugins
+May 07, 2015 4:27:57 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Augmented all extensions
+May 07, 2015 4:27:57 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Loaded all jobs
+May 07, 2015 4:28:06 PM jenkins.InitReactorRunner$1 onAttained
+INFO: Completed initialization
+=== Starting testcreateBuildJob(org.jenkinsci.plugins.jobcreator.TestJobCreatorTest)

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<org.jenkinsci.plugins.jobcreator.TestJobCreator_-DescriptorImpl plugin="job-creator@1.0-SNAPSHOT">
+  <createJob>true</createJob>
+</org.jenkinsci.plugins.jobcreator.TestJobCreator_-DescriptorImpl>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions/>
+  <number>2</number>
+  <startTime>1431028391082</startTime>
+  <result>SUCCESS</result>
+  <duration>30</duration>
+  <charset>UTF-8</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>/home/eerilio/Documents/job-creator/work/workspace/test_job1</workspace>
+  <hudsonVersion>1.580.1</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

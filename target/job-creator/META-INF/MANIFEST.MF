@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Built-By: eerilio
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_45
+Extension-Name: job-creator
+Specification-Title: TODO
+Implementation-Title: job-creator
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: org.jenkins-ci.plugins
+Short-Name: job-creator
+Long-Name: TODO Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/TODO+Plugin
+Plugin-Version: 1.0-SNAPSHOT (private-05/07/2015 16:28-eerilio)
+Hudson-Version: 1.580.1
+Jenkins-Version: 1.580.1
+Plugin-Developers: 
+
